@@ -1,0 +1,14 @@
+{
+    "name": "nriveraaa/sample",
+    "type": "project",
+    "authors": [
+        {
+            "name": "nriveraaa",
+            "email": "202310167@fit.edu.ph"
+        }
+    ],
+    "scripts": {
+        "start": "php -S localhost:8000 router.php"
+    },
+    "require": {}
+}
